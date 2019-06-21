@@ -1,0 +1,11 @@
+.Stocks {
+    min-height: 93.4vh;
+    max-height: 93.4vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: auto;
+}
+
+.addButton {
+    margin: 20px !important;
+    margin-left: 10% !important;
+}

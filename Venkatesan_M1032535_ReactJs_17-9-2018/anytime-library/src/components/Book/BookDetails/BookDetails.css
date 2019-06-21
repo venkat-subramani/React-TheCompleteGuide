@@ -1,0 +1,30 @@
+.Modal {
+    position: relative;
+    top: 10%;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    max-height: 75%;
+    overflow: auto;
+}
+
+.Card {
+    display: flex !important;
+    padding: 20px;
+}
+
+.CardDetails {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.CardContent {
+    flex: 1 0 auto;
+}
+
+.CardCover {
+    width: 121px;
+    height: 121px;
+    background-size: contain !important;
+    float: right;
+}

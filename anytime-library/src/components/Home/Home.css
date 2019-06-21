@@ -1,0 +1,9 @@
+.Home {
+    position: relative;
+    top: 10%;
+    text-align: center;
+    color: #ffffff;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}

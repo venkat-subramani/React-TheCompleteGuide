@@ -1,0 +1,25 @@
+.Modal {
+    position: relative;
+    top: 10%;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    max-height: 80%;
+    overflow: auto;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.textField {
+    margin: 10px !important;
+}
+
+@media (max-width: 500px){
+    .textField {
+        width: 100% !important;
+    }
+}

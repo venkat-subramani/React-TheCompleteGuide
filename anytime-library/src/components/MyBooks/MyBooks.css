@@ -1,0 +1,24 @@
+.MyBooks {
+    min-height: 93.4vh;
+    max-height: 93.4vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: auto;
+}
+
+.ActiveBooks {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    overflow: auto;
+}
+
+.header {
+    margin: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
